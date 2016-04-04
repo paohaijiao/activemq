@@ -1,0 +1,6 @@
+6.3 创建自定义安全插件
+1.继承broker filter类，实现拦截逻辑
+2.实现broker plugin接口 安装
+3.配置xml文件
+4项目打包
+4.run activemq  xbean:file:D:/project/jmsProject/resource/activemq06/activemq-custom.xml
